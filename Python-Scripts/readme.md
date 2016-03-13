@@ -1,5 +1,6 @@
 ## Some folders
 Heatmap
+Boxplots
 ## other links to graphs in python
 https://github.com/olgabot/prettyplotlib
 http://stanford.edu/~mwaskom/software/seaborn/examples/index.html
